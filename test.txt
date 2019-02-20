@@ -1,0 +1,5 @@
+linux 
+java
+orcale
+html
+javascript
